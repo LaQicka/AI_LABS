@@ -1,2 +1,2 @@
-# AI_LABS
+# AI_Qt
 Realization some ai algorithms using c++ and Qt
